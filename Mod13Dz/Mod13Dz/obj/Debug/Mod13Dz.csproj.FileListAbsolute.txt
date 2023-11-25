@@ -1,0 +1,20 @@
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\bin\Debug\Mod13Dz.exe.config
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\bin\Debug\Mod13Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\bin\Debug\Mod13Dz.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\bin\Debug\BankLib.dll
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\bin\Debug\BankLib.pdb
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.csproj.AssemblyReference.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.csproj.CoreCompileInputs.cache
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.csproj.CopyComplete
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.exe
+C:\Users\Alisher\Desktop\PAPKI\Univer\С5\Intership\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.pdb
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\bin\Debug\Mod13Dz.exe.config
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\bin\Debug\Mod13Dz.exe
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\bin\Debug\Mod13Dz.pdb
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\bin\Debug\BankLib.dll
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\bin\Debug\BankLib.pdb
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.csproj.AssemblyReference.cache
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.csproj.CoreCompileInputs.cache
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.csproj.CopyComplete
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.exe
+C:\Users\Muraqer\Downloads\Intership-main (3)\Intership-main\Mod13Dz\Mod13Dz\obj\Debug\Mod13Dz.pdb
